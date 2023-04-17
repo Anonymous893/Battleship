@@ -5,7 +5,7 @@ This is a simple Battleship game developed using Java and utilises object orient
 ##### Rules
 At the beginning of the game, a board with the random placement of the five ships will be generated. Each player has a board showing their hits and misses on their opponent’s ships.
 
-[insert image of board here]
+![Alt text](/../<Screenshots>/Screenshots/Board.png?raw=true "Optional Title")
 
 A _0_ represents an unattacked spot. 
 
@@ -15,16 +15,16 @@ As the game progresses, the board will begin to change in response to the coordi
 
 A _1_ represents a missed attack while a _2_ represents a hit.
 
-[insert image of board showing 1 and 2 here]
+![Alt text](/../<Screenshots>/Screenshots/Board in Action.png?raw=true "Optional Title")
 
 A player’s goal is to sink all of their opponents ships. There are five ships and their lengths are listed below:
 
-Aircraft Carrier - 6 spaces
-Battleship - 5 spaces
-Cruiser - 4 spaces
-Destroyer - 3 spaces
-Submarine - 2 spaces
+   * Aircraft Carrier - 6 spaces
+   * Battleship - 5 spaces
+   * Cruiser - 4 spaces
+   * Destroyer - 3 spaces
+   * Submarine - 2 spaces
 
 At the end, once a player has won, a winning message will be displayed.
 
-[insert image of winning message here]
+![Alt text](/../<Screenshots>/Screenshots/Winning message.png?raw=true "Optional Title")
