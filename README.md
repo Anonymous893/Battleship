@@ -28,3 +28,9 @@ A player’s goal is to sink all of their opponents ships. There are five ships 
 At the end, once a player has won, a winning message will be displayed.
 
 ![Alt text](/Screenshots/WinningMessage.png?raw=true "Optional Title")
+
+#### Installation 
+To run this game, just download the files and run the BattleDriver.java file. I used the Eclipse IDE to work on this project.
+
+#### Lessons and Other Comments
+I created this game for fun and to practise my Java skills and knowledge of object oriented programming.
