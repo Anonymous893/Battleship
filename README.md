@@ -15,7 +15,7 @@ As the game progresses, the board will begin to change in response to the coordi
 
 A _1_ represents a missed attack while a _2_ represents a hit.
 
-![Alt text](/Screenshots/Board in Action.png?raw=true "Optional Title")
+![Alt text](/Screenshots/BoardInAction.png?raw=true "Optional Title")
 
 A player’s goal is to sink all of their opponents ships. There are five ships and their lengths are listed below:
 
@@ -27,4 +27,4 @@ A player’s goal is to sink all of their opponents ships. There are five ships 
 
 At the end, once a player has won, a winning message will be displayed.
 
-![Alt text](/Screenshots/Winning message.png?raw=true "Optional Title")
+![Alt text](/Screenshots/WinningMessage.png?raw=true "Optional Title")
